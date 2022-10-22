@@ -1,0 +1,13 @@
+name = "Consensus"
+uuid = "954c916f-4aca-4387-aa65-b64b4553fae2"
+authors = ["JingYu Ning <115336923+jrunkening@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
